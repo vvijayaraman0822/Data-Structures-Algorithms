@@ -2,7 +2,7 @@
 This repository contains the implementations of all the basic data structures and sorting algorithms. It includes the following :-
 
 ## Data Structures 
-- Stack 
+- [Stacks](https://github.com/vvijayaraman0822/DataStructures-Algorithms/blob/master/Stacks.java) 
 - Queue
 - [LinkedList](https://github.com/vvijayaraman0822/DataStructures-Algorithms/blob/master/LinkedLists.java) 
 - Trees
