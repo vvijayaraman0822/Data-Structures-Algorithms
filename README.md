@@ -3,7 +3,7 @@ This repository contains the implementations of all the basic data structures an
 
 ## Data Structures 
 - [Stacks](https://github.com/vvijayaraman0822/DataStructures-Algorithms/blob/master/Stacks.java) 
-- Queue
+- [Queue](https://github.com/vvijayaraman0822/DataStructures-Algorithms/blob/master/Queues.java)
 - [LinkedList](https://github.com/vvijayaraman0822/DataStructures-Algorithms/blob/master/LinkedLists.java) 
 - Trees
 
